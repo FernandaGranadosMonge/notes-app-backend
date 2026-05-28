@@ -1,6 +1,6 @@
 # Notes API (Backend)
 
-### Run the APIIII
+### Run the API
 
 ```bash
 cd test-backend
